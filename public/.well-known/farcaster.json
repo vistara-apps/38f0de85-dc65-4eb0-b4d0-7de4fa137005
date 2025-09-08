@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "FlexiNest",
+    "subtitle": "Built with Zara",
+    "description": "FlexiNest is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://38f0de85dc654eb0b4d07de4fa137005-2g10.vercel.app",
+    "splashImageUrl": "https://38f0de85dc654eb0b4d07de4fa137005-2g10.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://38f0de85dc654eb0b4d07de4fa137005-2g10.vercel.app/image.png",
+    "tagline": "FlexiNest",
+    "screenshotUrls": [
+      "https://38f0de85dc654eb0b4d07de4fa137005-2g10.vercel.app/screenshot.png",
+      "https://38f0de85dc654eb0b4d07de4fa137005-2g10.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://38f0de85dc654eb0b4d07de4fa137005-2g10.vercel.app/api/webhook"
+  }
+}
