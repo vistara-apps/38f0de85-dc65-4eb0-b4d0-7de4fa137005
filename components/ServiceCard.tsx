@@ -5,7 +5,7 @@ import { cn } from '@/lib/utils';
 
 interface ServiceCardProps {
   service: Service;
-  variant?: 'childcare' | 'errands' | 'tutoring' | 'home';
+  variant?: 'childcare' | 'errands' | 'tutoring' | 'home' | 'community';
   onClick?: () => void;
 }
 
@@ -15,6 +15,7 @@ export function ServiceCard({ service, variant, onClick }: ServiceCardProps) {
     errands: 'from-blue-500 to-cyan-500',
     tutoring: 'from-green-500 to-teal-500',
     home: 'from-orange-500 to-red-500',
+    community: 'from-indigo-500 to-purple-500',
   };
 
   return (
