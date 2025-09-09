@@ -6,7 +6,7 @@ import { type ReactNode } from 'react';
 
 export function Providers({ children }: { children: ReactNode }) {
   return (
-    <MiniKitProvider>
+    <MiniKitProvider chain={base}>
       {children}
     </MiniKitProvider>
   );
